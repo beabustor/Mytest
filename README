@@ -1,8 +1,2 @@
 This is a git repo
 
-#include<stdio.h>
-int main()
-{
-printf("hello world");
-return 0;
-}
